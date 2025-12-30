@@ -1,28 +1,27 @@
 <div align="center">
   <div style="background-color: #f3efe0; border: 3px solid #3a352f; border-radius: 30px; padding: 35px; font-family: 'Comic Sans MS', cursive;">
-    
-    <img src="https://github.com/lolilovess/cutehub/raw/main/character.png" width="160" style="border-radius: 50%; border: 3px solid #3a352f;" />
 
-    <h1 style="color: #3a352f; margin-top: 15px;">hi! i'm loli. 🏁</h1>
-    
-    <p style="color: #2d2a26; font-weight: 800; font-size: 18px;">
-      neko/kitty • stitching an ivory internet. 🧶 <br>
-      relaxed. carefree. sturdy. 🍦
-    </p>
+<img src="https://github.com/lolilovess/cutehub/raw/main/character.png" width="160" style="border-radius: 50%; border: 3px solid #3a352f;" />
 
-    <div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
-      <img src="https://img.shields.io/badge/status-carefree-c5b358?style=for-the-badge&labelColor=3a352f" />
-      <img src="https://img.shields.io/badge/yarns-4_projects-f3efe0?style=for-the-badge&labelColor=3a352f&color=f3efe0" />
-    </div>
+<h1 style="color: #3a352f; margin-top: 15px;">hi! i'm loli. 🏁</h1>
+
+<p style="color: #2d2a26; font-weight: 800; font-size: 18px;">
+  neko/kitty • stitching an ivory internet. 🧶 <br>
+  relaxed. carefree. sturdy. 🍦
+</p>
+
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
+  <img src="https://img.shields.io/badge/status-carefree-c5b358?style=for-the-badge&labelColor=3a352f" />
+  <img src="https://img.shields.io/badge/yarns-4_projects-f3efe0?style=for-the-badge&labelColor=3a352f&color=f3efe0" />
+</div>
+
   </div>
 </div>
 
 <br>
 
 ### 📜 the archive manifesto
-> i look at the internet and see too many sharp edges and "trash white" (#ffffff) pixels. my mission is to knit everything into a cozy, rounded, ivory archive. i build snippets that make github feel like a heavy typewriter on warm wool. 🖋️🧶
-
----
+> i look at the internet and see too many sharp edges and "trash white" (#ffffff) pixels. my mission is to knit everything into a cozy, rounded, ivory archive.
 
 ### 🧶 the current yarns
 | project | vibe | status |
