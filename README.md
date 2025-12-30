@@ -28,7 +28,7 @@
 | :--- | :--- | :--- |
 | **[cream](https://github.com/lolilovess/cream)** | discord theme for nerdys and relaxed ppl | 🍦 sturdy |
 | **[cutehub](https://github.com/lolilovess/cutehub)** | the original github hijack | 🏁 v2.1 |
-| **[cutedev](https://github.com/lolilovess/cutedev)** | pritti githu.dev | 🧶 stitching |
+| **[cutedev](https://github.com/lolilovess/cutedev)** | pritti github.dev | 🧶 stitching |
 | **[hii](https://github.com/lolilovess/hii)** | a repo for cute themes, wallpapers, os and apps | 📂 archive |
 
 ---
