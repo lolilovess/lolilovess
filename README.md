@@ -1,7 +1,7 @@
 <div align="center">
   <div style="background-color: #f3efe0; border: 3px solid #3a352f; border-radius: 30px; padding: 35px; font-family: 'Comic Sans MS', cursive;">
 
-<img src="https://github.com/oniichaanii/oniichaanii/raw/main/i cant think of a time where i have seen a ugly cat.jfif" width="160" style="border-radius: 50%; border: 3px solid #3a352f;" />
+<img src="https://github.com/oniichanii/oniichaanii/blob/main/i%20cant%20think%20of%20a%20time%20where%20i%20have%20seen%20a%20ugly%20cat.jfif" width="160" style="border-radius: 50%; border: 3px solid #3a352f;" />
 
 <h1 style="color: #3a352f; margin-top: 15px;">hi! i'm oniichaan! 🏁</h1>
 
